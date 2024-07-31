@@ -1,5 +1,6 @@
 # Photopigment concentration calculator from photospectrometric data
 This code is my first application I made and used for my thesis.
+Download the code, run it and enter your data.
 
 1. Extract photopigemnts using methanol-based method.
 
